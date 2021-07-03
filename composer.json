@@ -1,0 +1,17 @@
+{
+    "name": "bilalusean/hello-world-package",
+    "description": "This is hello world package.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bilalusean\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bilal Usean",
+            "email": "bilalusean.a@thecommerceshop.com"
+        }
+    ],
+    "require": {}
+}
